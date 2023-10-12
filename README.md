@@ -1,0 +1,1 @@
+# Cypress_POM_example
