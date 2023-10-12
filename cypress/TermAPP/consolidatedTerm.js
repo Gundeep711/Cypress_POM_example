@@ -53,8 +53,8 @@ address = '#address'
         cy.viewport('macbook-13')
         cy.visit("https://richmediawireless.com/dev/td/v3.18-edit/application/fr/", {
             auth: {
-                username: 'richmedia',
-                password: 'yellowrobot20'
+                username: '',
+                password: ''
             },
         })
     }

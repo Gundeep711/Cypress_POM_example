@@ -69,8 +69,8 @@ coverageSlider = '#coverage-value-input'
         if(!link.includes("product-services")){
             cy.visit(link, {
                 auth: {
-                    username: 'richmedia',
-                    password: 'yellowrobot20'
+                    username: '',
+                    password: ''
                 },
             })
         }

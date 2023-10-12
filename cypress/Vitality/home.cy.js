@@ -14,8 +14,8 @@ export class Vitality{
         }
         cy.visit(link, {
             auth: {
-                username: 'richmedia',
-                password: 'yellowrobot20'
+                username: '',
+                password: ''
             },
         })
     }
